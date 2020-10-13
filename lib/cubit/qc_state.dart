@@ -5,7 +5,7 @@ abstract class QcState {
   const QcState();
 }
 
-/// 초기화 상태
+/// 초기화
 class QcInitial extends QcState {
   const QcInitial();
 }
